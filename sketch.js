@@ -10,13 +10,10 @@ function setup() {
     let use_australia_attacks = true
 
     let corpus = ''
-    // corpus += history
-    // corpus += genesis
-    corpus += frost
-    // corpus += whitman
-    corpus += north_of_boston
+    corpus += bartender  // technically not correct- just makes 2 n-grams not align
+    corpus += knowledge_box
 
-    let words = corpus.replace("\n", " ").replace("_", " ");  // filter out numbers, change from \n to "", then split by ""
+    let words = corpus
     words = words.split(" ").filter(word => !Number.isInteger(parseInt(word)))
 
     let dict_len = 0;
@@ -38,21 +35,24 @@ function setup() {
     if(words.length < 2) { print("Could only parse <2 words. Exiting."); return false; }
 
     let starting_word_index = random(0, dict_len) | 0;
-    print("index is "+starting_word_index)
-    print("when len is "+Object.keys(prefix_suffix_dict).length)
     let prefix = Object.keys(prefix_suffix_dict)[starting_word_index]
+    if(!prefix) { print("Error. Try refreshing"); return;}
+    while(prefix == prefix.toLowerCase()) {
+        starting_word_index = random(0, dict_len) | 0;
+        prefix = Object.keys(prefix_suffix_dict)[starting_word_index]
+    }
+
     let starting_word = "";
 
     starting_word = prefix.capitalize();
 
-    let count = 300
+    let count = 100
 
     let concat_symbol = " " 
     let sentence = starting_word;
     let need_newline = false;
     for (let word_idx = 0; word_idx < count - 1 || need_newline; word_idx++) {
-        // print("prefix is "+prefix)
-        // Case: the final n-gram in the corpus does not have an entry in the dict
+        if(prefix.match(/\n\s*$(?!\n)/)) print("hi")
         if(!prefix) {
             let starting_word_index = random(0, dict_len) | 0;
             prefix = Object.keys(prefix_suffix_dict)[starting_word_index]
@@ -60,11 +60,28 @@ function setup() {
         let suffix_index = random(0, prefix_suffix_dict[prefix].length) | 0
         let suffix = prefix_suffix_dict[prefix][suffix_index]
         sentence += " " + suffix
+            // .replace(/_/, "")
         prefix = prefix.split(" ")[1] + " "+ suffix;
-        if (prefix == " " && need_newline) { print("prefix is "+prefix); need_newline = false }
-        if(word_idx == count - 2) { print("here"); need_newline = true;}
+        if(suffix.charAt(suffix.length - 1) == ".") need_newline = false;
+        if(word_idx == count - 2) { need_newline = true;}
     }
-    print(sentence)
+    // print(sentence)
+
+    // Make sure it starts with recipe
+    let slice_idx = 0;
+    while((sentence.charAt(slice_idx) != '\n'
+           || sentence.charAt(slice_idx+1) == sentence.charAt(slice_idx+1).toLowerCase())
+         && sentence.charAt(slice_idx+1) != ''
+         ) {
+        slice_idx++;
+        // if(sentence.charAt(slice_idx) == '\n')
+    }
+    if(slice_idx >= sentence.length) slice_idx = 0
+    else slice_idx++
+    print(slice_idx)
+    print(sentence.charAt(slice_idx))
+    print(sentence.slice(slice_idx, sentence.length))
+
 }
 
 String.prototype.capitalize = function() {
@@ -74,31 +91,3 @@ String.prototype.capitalize = function() {
 function draw() {
     noLoop()
 }
-
-/*
-def review_generator():
-    text = ask_user()
-    reviews = open(text, 'r').read()
-    reviews = ''.join([i for i in reviews if not i.isdigit()]).replace("\n", " ").split(' ')  // join reviews toghether, taking out numb and newlines and then split them into an list
-    
-    index = 1
-    chain = {}
-    count = int(input('How many words would you like your review to be?'))
-    
-    for word in reviews[index:]:
-        key = reviews[index-1]
-        if key in chain:
-            chain[key].append(word)  // chain contains all the suffixes for that kye
-        else:
-            chain[key] = [word]
-        index += 1
-    
-    word1 = random.choice(list(chain.keys()))  // 
-    message = word1.capitalize()
-
-    while len(message.split(' ')) < count:  
-        word2 = random.choice(chain[word1])
-        word1 = word2
-        message += ' ' + word2
-    return message
-    */
