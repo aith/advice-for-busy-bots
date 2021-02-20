@@ -1420,70 +1420,86 @@ eight pints. Let them stand fourteen days; then distil in a water bath.
 each twelve drops; cardamon seeds, one drachm, rectified spirits, one
 pint. It improves by age.
 
-Eau de Rosieres. Spirits of roses, 4 pints; spirits of jessamine, one
+Eau de Rosieres.
+Spirits of roses, 4 pints; spirits of jessamine, one
 pint; spirits of orange flowers, one pint; spirits of cucumber, two and
 a quarter pints; spirits of celery seed, two and a quarter pints;
 spirits of angelica root, two and three quarter pints; tincture of
 benzoin, three quarters of a pint; balsam of Mecca, a few drops.
 
-Eau de Violettes. Macerate five ounces of fine orris root in a quart
+Eau de Violettes.
+Macerate five ounces of fine orris root in a quart
 of rectified spirits, for some days, and filter.
 
-Esprit de Bouquet. Oil of lavender, oil of cloves and oil of
+Esprit de Bouquet.
+Oil of lavender, oil of cloves and oil of
 bergamot, each two drachms; otto of rose, and oil of cinnamon, each,
 twenty drops; essence of musk, one drachm; rectified spirits, one pint.
 Mix.
 
-Essence of Ambergris. Spirits of wine, half a pint; ambergris, 24
+Essence of Ambergris.
+Spirits of wine, half a pint; ambergris, 24
 grains. Let it stand for three days in a warm place, and filter.
 
-Essence of Bergamot. Spirits of wine, half a pint; bergamot-peel,
+Essence of Bergamot.
+Spirits of wine, half a pint; bergamot-peel,
 four ounces: as above.
 
-Essence of Cedrat. Essence of bergamot, one ounce; essence of neroli,
+Essence of Cedrat.
+Essence of bergamot, one ounce; essence of neroli,
 two drachms.
 
-Essence of Cloves. Spirits of wine, half a pint; bruised cloves, one
+Essence of Cloves.
+Spirits of wine, half a pint; bruised cloves, one
 ounce.
 
-Essence for the Headache. Spirits of wine, two pounds; roche alum, in
+Essence for the Headache.
+Spirits of wine, two pounds; roche alum, in
 fine powder, two ounces; camphor, four ounces; essence of lemon, half an
 ounce; strong water of ammonia, four ounces. Stop the bottle close, and
 shake it daily, for three or four days.
 
-Essence of Lavender. Essential oil of lavender, three and a half
+Essence of Lavender.
+Essential oil of lavender, three and a half
 ounces; rectified spirits, two quarts; rose water, half a pint; tincture
 of orris, half a pint.
 
 Essence of Lemon. Spirits of wine, half a pint; fresh lemon-peel,
 four ounces.
 
-Essence of Musk. Take one pint proof spirit, and add two drachms
+Essence of Musk.
+Take one pint proof spirit, and add two drachms
 musk. Let it stand a fortnight, with frequent agitation.
 
-Essence of Neroli. Spirits of wine, half a pint; orange-peel, cut
+Essence of Neroli.
+Spirits of wine, half a pint; orange-peel, cut
 small, three ounces; orris root in powder, one drachm; musk, two
 grains.
 
-Essence for Smelling Bottles. Oil of lavender and essence of
+Essence for Smelling Bottles.
+Oil of lavender and essence of
 bergamot, each one drachm; oil of orange-peel, eight drops; oil of
 cinnamon, four drops; oil of neroli, two drops; alcohol and strongest
 water of ammonia, each two ounces.
 
-Essence of Verbena Leaf. Take rectified spirits of wine, half a pint;
+Essence of Verbena Leaf.
+Take rectified spirits of wine, half a pint;
 otto of verbena, half a drachm; otto of bergamot, one drachm; tincture
 of tolu, quarter of an ounce. Mix them together, and it is ready for
 use. This sweet scent does not stain the handkerchief and is very
 economical.
 
-Essence of Violets. Spirits of wine, half a pint; orris root, one
+Essence of Violets.
+Spirits of wine, half a pint; orris root, one
 ounce. Other essences in the same manner.
 
-Eye Water. Take one pint of rose water, and add one teaspoonful each
+Eye Water.
+Take one pint of rose water, and add one teaspoonful each
 of spirits of camphor and laudanum. Mix and bottle. To be shaken and
 applied to the eyes as often as necessary. Perfectly harmless.
 
-Honey Water. Rectified spirits, eight pints; oil of cloves, oil of
+Honey Water.
+Rectified spirits, eight pints; oil of cloves, oil of
 lavender, oil of bergamot, each half an ounce; musk, eight grains;
 yellow sandus shavings, four ounces; digest for eight days and add two
 pints each of orange flower and rose water.
@@ -1491,44 +1507,51 @@ pints each of orange flower and rose water.
 Lavender Water. Oil of lavender, four ounces; spirit, three quarts;
 rose water, one pint. Mix and filter.
 
-Lisbon Water. To rectified spirit, one gallon, add essential oils of
+Lisbon Water.
+To rectified spirit, one gallon, add essential oils of
 orange-peel and lemon-peel, of each three ounces, and otto of roses, one
 quarter of an ounce.
 
-Odoriferous Lavender Water. Rectified spirit, five gallons; essential
+Odoriferous Lavender Water.
+Rectified spirit, five gallons; essential
 oil of lavender, twenty ounces; oil of bergamot, five ounces; essence of
 ambergris, half an ounce.
-
 2. Oil of lavender, three drachms; oil of bergamot, twenty drops;
 nerolic, six drops; otto of roses, six drops; essence of cedrat, eight
 drops; essence of musk, twenty drops; rectified spirit, twenty-eight
 fluid ounces; distilled water, four ounces.
 
-Queen of Hungary's Water. Spirit of rosemary, four pints; orange
+Queen of Hungary's Water.
+Spirit of rosemary, four pints; orange
 flower water, one quarter of a pint; essence of neroli, four drops.
 
-Almond Bloom. Boil one ounce of Brazil dust in three pints of
+Almond Bloom.
+Boil one ounce of Brazil dust in three pints of
 distilled water, and strain; add six drachms of isinglass, 2 drachms of
 cochineal, one ounce of alum, and eight drachms of borax; boil again and
 strain through a fine cloth.
 
-Fine Carmine. (prepared from cochineal) is used alone, or deduced
+Fine Carmine.
+(prepared from cochineal) is used alone, or deduced
 with starch, &c. And also the coloring matter of safflower and other
 vegetable colors, in the form of pink saucers, &c.
 
-Face Powder. Starch, one pound; oxide of bismuth, four ounces.
+Face Powder.
+Starch, one pound; oxide of bismuth, four ounces.
 
-Face Whites. French chalk is one of the most innocent; finely
+Face Whites.
+French chalk is one of the most innocent; finely
 powdered. White starch is also used.
 
-Rouge. Mix vermillion with enough gum tragacanth dissolved in water
+Rouge.
+Mix vermillion with enough gum tragacanth dissolved in water
 to form a thin paste; add a few drops of almond oil, place the mixture
 in rouge pots, and dry by a very gentle heat.
 
-Turkish Rouge. Take half pint alcohol and one ounce of alkanet;
+Turkish Rouge.
+Take half pint alcohol and one ounce of alkanet;
 macerate ten days and pour off the liquid, which should be bottled. This
 is the simplest and one of the best articles of the kind.
-
 Caution. White lead, and all cosmetic powders containing it should
 never be applied to the skin, as it is the most dangerous article that
 could be used.
@@ -1536,29 +1559,33 @@ could be used.
 Mouth Pastiles, for Perfuming the Breath. Extract of licorice, three
 ounces; oil of cloves, one and a half drachms; oil of cinnamon, fifteen
 drops. Mix, and divide into one-grain pills, and silver them.
-
-2. Catechu, seven drachms; orris powder, forty grains; sugar, three
+Or Catechu, seven drachms; orris powder, forty grains; sugar, three
 ounces; oil of rosemary, (or of clove, peppermint, or cinnamon,) four
 drops. Mix, and roll flat on an oiled marble slab, and cut into very
 small lozenges.
 
-Oil for the Hair. A very excellent ready-made oil for the hair which
+Oil for the Hair.
+A very excellent ready-made oil for the hair which
 answers all common purposes, is made by mixing one part brandy with
 three parts of sweet oil. Add any scent you prefer.
 
-Oil of Roses. Fine olive oil, one pint; otto of roses, sixteen drops.
+Oil of Roses.
+Fine olive oil, one pint; otto of roses, sixteen drops.
 If required red, color with alkanet root, and strain before adding the
 otto. For common sale essence of bergamot or of lemon is often
 substituted, wholly or in part, for the expensive otto.
 
-To Catch Foxes. Take oil of amber, and beaver's oil, each equal
+To Catch Foxes.
+Take oil of amber, and beaver's oil, each equal
 parts, and rub them over the trap before setting it. Set in the usual
 way.
 
-To Catch Mink. Take oil of amber, and beaver's oil, and rub over the
+To Catch Mink.
+Take oil of amber, and beaver's oil, and rub over the
 trap. Bait with fish or birds.
 
-To Catch Muskrat. In the female muskrat near the vagina is a small
+To Catch Muskrat.
+In the female muskrat near the vagina is a small
 bag which holds from 30 to 40 drops. Now all the trapper has to do, is
 to procure a few female muskrats and squeeze the contents of a bag into
 a vial. Now, when in quest of muskrats, sprinkle a few drops of the
@@ -1574,7 +1601,8 @@ chain to enable the animals to reach the water after being caught,
 otherwise they are liable to escape by tearing or gnawing off their
 legs.
 
-To Catch Beaver. In trapping for beaver, set the trap at the edge of
+To Catch Beaver.
+In trapping for beaver, set the trap at the edge of
 the water or dam, at the point where the animals pass from deep to shoal
 water, and always beneath the surface, and fasten it by means of a stout
 chain to a picket driven in the bank, or to a bush or tree. A flat stick
