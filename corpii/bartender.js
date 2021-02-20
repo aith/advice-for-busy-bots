@@ -1,3 +1,4 @@
+// source: https://www.gutenberg.org/ebooks/61065
 let bartender = `
 Absinthe.
 Absinthe is composed of the tops and leaves of the herb artemisia
@@ -2221,19 +2222,11 @@ one-half a pony yellow chartreuse, one-half a pony benedictine,
 one pony of apple brandy; shake well, strain into a fancy
 cocktail-glass, and serve.
 
-FROZEN BEVERAGES,
-SUCH AS
-WATER ICES, SHERBETS, AND
-FROZEN PUNCHES.
-
-----------
-
+Sherbets which are of a smooth, fine texture, but only half frozen,
+are sometimes called sorbets.
 Certain distinctions have been made in water ices. The varieties
 made with fruit juice, water, and sugar only are called water ices.
 Those with the addition of the whites of eggs are called sherbets.
-
-Sherbets which are of a smooth, fine texture, but only half frozen,
-are sometimes called sorbets.
 
 Water ices only half frozen, without stirring, and having a rough,
 icy texture, are called granites.

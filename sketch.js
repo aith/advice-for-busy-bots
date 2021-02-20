@@ -52,7 +52,7 @@ function setup() {
     let sentence = starting_word;
     let need_newline = false;
     for (let word_idx = 0; word_idx < count - 1 || need_newline; word_idx++) {
-        if(prefix.match(/\n\s*$(?!\n)/)) print("hi")
+        if(prefix.match(/\n\s*$(?!\n)/)) 
         if(!prefix) {
             let starting_word_index = random(0, dict_len) | 0;
             prefix = Object.keys(prefix_suffix_dict)[starting_word_index]
@@ -65,7 +65,6 @@ function setup() {
         if(suffix.charAt(suffix.length - 1) == ".") need_newline = false;
         if(word_idx == count - 2) { need_newline = true;}
     }
-    // print(sentence)
 
     // Make sure it starts with recipe
     let slice_idx = 0;
@@ -78,11 +77,35 @@ function setup() {
     }
     if(slice_idx >= sentence.length) slice_idx = 0
     else slice_idx++
-    print(slice_idx)
-    print(sentence.charAt(slice_idx))
-    print(sentence.slice(slice_idx, sentence.length))
 
+    // let's make the sentences breaked by a newline early long, and let css handle formatting
+    sentence = (find_sentence_starts(sentence, 0, replace_newline))
+
+    // print(sentence.slice(slice_idx, sentence.length))
+    //
+    print(sentence)
+    
+    document.getElementById("text").innerHTML = sentence
 }
+
+function find_sentence_starts(sentence, idx, func) {
+    while((idx < sentence.length)) {
+        if((sentence.charAt(idx) == '\n'
+            && sentence.charAt(idx+1) != '\n'
+           && sentence.charAt(idx+1) == sentence.charAt(idx+1).toLowerCase())
+           && sentence.charAt(idx+1) != '') {
+            sentence = func(sentence, idx)
+            idx--
+        }
+        idx++
+    }
+    return sentence;
+}
+
+function replace_newline(sentence, idx) {
+    return sentence.slice(0, idx) + " " + sentence.slice(idx+1, sentence.length);
+}
+
 
 String.prototype.capitalize = function() {
   return this.charAt(0).toUpperCase() + this.slice(1)

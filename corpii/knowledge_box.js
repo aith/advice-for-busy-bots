@@ -1,6 +1,7 @@
 let knowledge_box = `
 
-Cider Without Apples. To each gallon of cold water, put 1 lb. common
+Cider Without Apples.
+To each gallon of cold water, put 1 lb. common
 sugar, ½ oz. tartaric acid, 1 tablespoonful of yeast, shake well, make
 in the evening, and it will be fit for use next day. I make in a keg a
 few gallons at a time, leaving a few quarts to make into next time; not
@@ -17,12 +18,14 @@ putting in a little occasionally to keep it full. Then bottle, putting
 in 2 or 3 broken raisins to each bottle, and it will nearly equal
 Champagne.
 
-Cider Champagne, No. 1. Good cider, 20 gallons; spirits, 1 gallon;
+Cider Champagne, No. 1.
+Good cider, 20 gallons; spirits, 1 gallon;
 honey or sugar, 6 lbs. Mix, and let them rest for a fortnight; then fine
 with skimmed milk, 1 quart. This, put up in champagne bottles, silvered
 and labeled, has often been sold for Champagne. It opens very sparkling.
 
-Cider--To Keep Sweet. 1st. By putting into the barrel before the
+Cider, To Keep Sweet.
+1st. By putting into the barrel before the
 cider has begun to work, about half a pint of whole fresh mustard seed
 tied up in a coarse muslin bag. 2d. By burning a little sulphur or
 sulphur match in the barrel previous to putting in the cider. 3d. By the
@@ -30,41 +33,49 @@ use of ¾ of an ounce of the bi-sulphite of lime to the barrel. This
 article is the preserving powder sold at rather a high price by various
 firms.
 
-To Neutralize Whiskey to make various Liquors. To 40 gallons of
+To Neutralize Whiskey to make various Liquors.
+To 40 gallons of
 whiskey, add 1½ lbs. unslacked lime; ¾ lb. alum, and ½ pint of spirits
 of nitre. Stand 24 hours and draw it off.
 
-Madeira Wine. To 40 gallons prepared cider, add, ¼ lb. tartaric acid;
+Madeira Wine.
+To 40 gallons prepared cider, add, ¼ lb. tartaric acid;
 4 gallons spirits; 3 lbs. loaf sugar. Let it stand 10 days, draw it off
 carefully; fine it down, and again rack it into another cask.
 
-Sherry Wine. To 40 gallons prepared cider, add, 2 gallons spirits; 3
+Sherry Wine.
+To 40 gallons prepared cider, add, 2 gallons spirits; 3
 lbs. of raisins; 6 gallons good sherry, and ½ ounce oil bitter almonds,
 (dissolved in alcohol). Let it stand 10 days, and draw it off carefully;
 fine it down and again rack it into another cask.
 
-Port Wine. To 40 gallons prepared cider, add, 6 gallons good port
+Port Wine.
+To 40 gallons prepared cider, add, 6 gallons good port
 wine; 10 quarts wild grapes, (clusters); ½ lb. bruised rhatany root; 3
 oz. tincture of kino; 3 lbs. loaf sugar; 2 gallons spirits. Let this
 stand ten days; color if too light, with tincture of rhatany, then rack
 it off and fine it. This should be repeated until the color is perfect
 and the liquid clear.
 
-To correct a bad Taste and sourness in Wine. Put in a bag the root of
+To correct a bad Taste and sourness in Wine.
+Put in a bag the root of
 wild horse-radish cut in bits. Let it down in the wine, and leave it
 there two days; take this out, and put another, repeating the same till
 the wine is perfectly restored. Or fill a bag with wheat; it will have
 the same effect.
 
-To restore Flat Wine. Add four or five pounds of sugar, honey, or
+To restore Flat Wine.
+Add four or five pounds of sugar, honey, or
 bruised raisins, to every hundred gallons, and bung close. A little
 spirits may also be added.
 
-To restore Wine that has turned sour or sharp. Fill a bag with
+To restore Wine that has turned sour or sharp.
+Fill a bag with
 leek-seed, or of leaves or twisters of vine, and put either of them to
 infuse in the cask.
 
-Ginger Wine. Take one quart of 95 per cent. alcohol, and put into it
+Ginger Wine.
+Take one quart of 95 per cent. alcohol, and put into it
 one ounce of best ginger root (bruised and not ground), five grains of
 capsicum, and one drachm of tartaric acid. Let stand one week and
 filter. Now add one gallon of water, in which one pound of crushed sugar
@@ -72,19 +83,22 @@ has been boiled. Mix when cold. To make the color, boil ½ ounce of
 cochineal, ¾ ounce of cream tartar, ½ ounce of saleratus, and ½ ounce
 alum in a pint of water till you get a bright red color.
 
-French Brandy. Pure spirits, 1 gallon; best French brandy, or any
+French Brandy.
+Pure spirits, 1 gallon; best French brandy, or any
 kind you wish to imitate, 1 quart; loaf sugar, 2 ounces; sweet spirits
 of nitre, ½ ounce; a few drops of tincture of catechu, or oak bark, to
 roughen the taste if desired, and color to suit.
 
-Gin. Take 100 gallons of clean, rectified spirits; add, after you
+Gin.
+Take 100 gallons of clean, rectified spirits; add, after you
 have killed the oils well, 1½ ounces of the oil of English juniper, ½
 ounce of angelica essence, ½ ounce of the oil bitter almonds, ½ ounce of
 the oil of coriander, and ½ ounce of the oil of caraway; put this into
 the rectified spirit and well rummage it up; this is what the rectifiers
 call strong gin.
 
-Aromatic Schiedam Schnapps, to imitate. To 25 gallons good common
+Aromatic Schiedam Schnapps, to imitate.
+To 25 gallons good common
 gin, 5 over proof, add 15 pints strained honey; 2 gallons clear water; 5
 pints white-sugar syrup; 5 pints spirit of nutmegs mixed with the nitric
 ether; 5 pints orange-flower water; 7 quarts pure water; 1 ounce acetic
@@ -92,30 +106,36 @@ ether; 8 drops of oil of wintergreen, dissolved with the acetic ether.
 Mix all the ingredients well; if necessary, fine with alum and salt of
 tartar.
 
-St. Croix Rum. To 40 gallons p. or n. spirits, add 2 gallons St.
+St. Croix Rum.
+To 40 gallons p. or n. spirits, add 2 gallons St.
 Croix Rum; 2 oz. acetic acid; 1½ ounce butyric acid; 3 pounds loaf
 sugar.
 
-Pine-Apple Rum. To 50 gallons rum, made by the fruit method, add 25
+Pine-Apple Rum.
+To 50 gallons rum, made by the fruit method, add 25
 pine-apples sliced, and 8 pounds white sugar. Let it stand two weeks
 before drawing off.
 
-Irish or Scotch Whiskey. To 40 gallons proof spirits, add 60 drops of
+Irish or Scotch Whiskey.
+To 40 gallons proof spirits, add 60 drops of
 creosote, dissolved in 1 quart of alcohol; 2 oz. acetic acid; 1 pound
 loaf sugar. Stand 48 hours.
 
-Rum Shrub. Tartaric acid, 5 pounds; pale sugar, 100 pounds; oil
+Rum Shrub.
+Tartaric acid, 5 pounds; pale sugar, 100 pounds; oil
 lemon, 4 drs.; oil orange, 4 drs.; put them into a large cask (80
 gallons), and add water, 10 gallons. Rummage till the acid and sugar are
 dissolved, then add rum (proof), 20 gallons; water to make up 55 gallons
 in all; coloring one quart or more. Fine with 12 eggs. The addition of
 12 sliced oranges will improve the flavor.
 
-Bourbon Whiskey. To 100 gallons pure proof spirit, add 4 ounces pear
+Bourbon Whiskey.
+To 100 gallons pure proof spirit, add 4 ounces pear
 oil; 2 ounces pelargonif ether; 13 drs. oil of wintergreen, dissolved in
 the ether; 1 gallon wine vinegar. Color with burnt sugar.
 
-Strong Beer, English Improved. Malt, 1 peck; coarse brown sugar, 6
+Strong Beer,
+English Improved. Malt, 1 peck; coarse brown sugar, 6
 pounds; hops, 4 ounces; good yeast, 1 teacup; if you have not malt, take
 a little over 1 peck of barley, (twice the amount of oats will do, but
 are not as good,) and put it into an oven after the bread is drawn, or
@@ -140,7 +160,8 @@ spirits in the universe. If more malt is used, not exceeding ½ a bushel,
 the beer, of course, would have more spirit, but this strength is
 sufficient for the use of families or invalids.
 
-Root Beer. For 10 gallons beer, take 3 pounds common burdock root, or
+Root Beer.
+For 10 gallons beer, take 3 pounds common burdock root, or
 1 ounce essence of sassafras; ½ pound good hops; 1 pint corn, roasted
 brown. Boil the whole in 6 gallons pure water until the strength of the
 materials is obtained; strain while hot into a keg, adding enough cold
@@ -150,28 +171,33 @@ will raise a batch of 8 loaves of bread. Place the keg in a cellar or
 other cool place, and in 48 hours you will have a keg of first-rate
 sparkling root beer.
 
-Superior Ginger Beer. Ten pounds of sugar; 9 ounces of lemon juice; ½
+Superior Ginger Beer.
+Ten pounds of sugar; 9 ounces of lemon juice; ½
 a pound of honey; 11 ounces of bruised ginger root; 9 gallons of water;
 3 pints of yeast. Boil the ginger half an hour in a gallon of water;
 then add the rest of the water and the other ingredients, and strain it
 when cold. Add the white of an egg, beaten, and ½ an ounce of essence of
 lemon. Let it stand 4 days, then bottle, and it will keep many months.
 
-Spruce Beer. Take of the essence of spruce half a pint; bruised
+Spruce Beer.
+Take of the essence of spruce half a pint; bruised
 pimento and ginger, of each four ounces; water, three gallons. Boil five
 or ten minutes, then strain and add 11 gallons of warm water, a pint of
 yeast, and six pints of molasses. Allow the mixture to ferment for 24
 hours.
 
-To Cure Ropy Beer. Put a handful or two of flour, and the same
+To Cure Ropy Beer.
+Put a handful or two of flour, and the same
 quantity of hops, with a little powdered alum, into the beer and rummage
 it well.
 
-To give Beer the appearance of Age. Add a few handfuls of pickled
+To give Beer the appearance of Age.
+Add a few handfuls of pickled
 cucumbers and Seville oranges, both chopped up. This is said to make
 malt liquor appear six months older than it really is.
 
-How to make Mead. The following is a good receipt for Mead:--On
+How to make Mead.
+The following is a good receipt for Mead:--On
 twenty pounds of honey pour five gallons of boiling water; boil, and
 remove the scum as it rises; add one ounce of best hops, and boil for
 ten minutes; then put the liquor into a tub to cool; when all but cold
@@ -183,7 +209,8 @@ peg-hole which can afterwards be closed, and in less than a year it will
 be fit to bottle.
 
 Stomach Bitters, equal to Hostetter's, for one-fourth its
-cost. European Gentian root, 1½ ounce; orange peel, 2½ ounces;
+cost.
+European Gentian root, 1½ ounce; orange peel, 2½ ounces;
 cinnamon, ¼ ounce; aniseseed, ½ ounce; coriander seed, ½ ounce; cardamon
 seed, 1/8 ounce; unground Peruvian bark, ½ ounce; gum kino, ¼ ounce;
 bruise all these articles, and put them into the best alcohol, 1 pint;
@@ -193,7 +220,8 @@ strength; now dissolve loaf sugar, 1 pound, in the hot liquid, adding 3
 quarts cold water, and mix with spirit tincture first poured off, or you
 can add these, and let it stand on the dregs if preferred.
 
-Soda Syrup, with or without Fountains. The common or more watery
+Soda Syrup, with or without Fountains.
+The common or more watery
 syrups are made by using loaf or crushed sugar, 8 pounds; pure water, 1
 gallon, gum arabic, 2 ounces, mix in a brass or copper kettle; boil
 until the gum is dissolved, then skim and strain through white flannel,
@@ -202,7 +230,8 @@ flavor, use extract of lemon, orange, rose, pine-apple, peach,
 sarsaparilla, strawberry, etc., ½ ounce to each bottle, or to your
 taste.
 
-Bead for Liquor. The best bead is the orange-flower water bead, (oil
+Bead for Liquor.
+The best bead is the orange-flower water bead, (oil
 of neroli,) 1 drop to each gallon of brandy. Another method:--To every
 40 drops of sulpuric acid, add 60 drops purest sweet oil in a glass
 vessel; use immediately. This quantity is generally sufficient for 10
@@ -213,36 +242,43 @@ till it becomes a paste; then add small quantities of spirits of wine
 till it comes into a liquid. This quantity is sufficient for 100
 gallons. The first is strongly recommended as the best.
 
-Coloring for Liquors. Take 2 pounds crushed or lump sugar, put it
+Coloring for Liquors.
+Take 2 pounds crushed or lump sugar, put it
 into a kettle that will hold 4 to 6 quarts, with ½ tumbler of water.
 Boil it until it is black, then take it off and cool with water,
 stirring it as you put in the water.
 
-Wax Putty for Leaky Casks, Bungs, etc. Spirits turpentine, 2 pounds;
+Wax Putty for Leaky Casks,
+Bungs, etc. Spirits turpentine, 2 pounds;
 tallow, 4 pounds; solid turpentine, 12 pounds. Melt the wax and solid
 turpentine together over a slow fire, then add the tallow. When melted,
 remove far from the fire, then stir the spirits turpentine, and let it
 cool.
 
-Cement for the Mouths of Corked Bottles. Melt together ¼ of a pound
+Cement for the Mouths of Corked Bottles.
+Melt together ¼ of a pound
 of rosin, a couple of ounces of beeswax. When it froths stir it with a
 tallow candle. As soon as it melts, dip the mouths of the corked bottles
 into it. This is an excellent thing to exclude the air from such things
 as are injured by being exposed to it.
 
-Arnica Liniment. Add to one pint of sweet oil, two tablespoonfuls of
+Arnica Liniment.
+Add to one pint of sweet oil, two tablespoonfuls of
 tincture of arnica; or the leaves may be heated in the oil over a slow
 fire. Good for wounds, stiff joints, rheumatic, and all injuries.
 
-Ayer's Cherry Pectoral. Take four grains of acetate of morphia, 2
+Ayer's Cherry Pectoral.
+Take four grains of acetate of morphia, 2
 fluid drachms of tincture of bloodroot, 7 fluid drachms each of
 antimonial wine and wine of ipecacuanha, and 3 fluid ounces of syrup of
 wild cherry. Mix.
 
-Balm Gilead. Balm-gilead buds, bottled up in new rum, are very
+Balm Gilead.
+Balm-gilead buds, bottled up in new rum, are very
 healing to fresh cuts or wounds. No family should be without a bottle.
 
-Blackberry Cordial. To one quart of blackberry juice, add one pound
+Blackberry Cordial.
+To one quart of blackberry juice, add one pound
 of white sugar, one tablespoonful of cloves, one of allspice, one of
 cinnamon, and one of nutmeg. Boil all together fifteen minutes; add a
 wineglass of whiskey, brandy or rum. Bottle while hot, cork tight, and
@@ -251,17 +287,20 @@ wineglassful for an adult--half that quantity for a child--will often
 cure diarrhea. It can be taken three or four times a day if the case is
 severe.
 
-Brandreth's Pills. Take two pounds of aloes, one pound of gamboge,
+Brandreth's Pills.
+Take two pounds of aloes, one pound of gamboge,
 four ounces of extract of colocynth, half a pound of castile soap, two
 fluid drachms of oil of peppermint, and one fluid drachm of cinnamon.
 Mix, and form into pills.
 
-Brown's Bronchial Troches. Take one pound of pulverized extract of
+Brown's Bronchial Troches.
+Take one pound of pulverized extract of
 licorice, one and a half pounds of pulverized sugar, four ounces of
 pulverized cubebs, four ounces of pulverized gum arabic, and one ounce
 of pulverized extract of conium. Mix.
 
-Bryan's Pulmonic Wafers for Coughs, Colds, Etc. Take white sugar,
+Bryan's Pulmonic Wafers for Coughs, Colds, Etc.
+Take white sugar,
 seven pounds; tincture of syrup of ipecac, four ounces: antimonial wine,
 two ounces; morphine, ten grains; dissolved in a tablespoonful of water,
 with ten or fifteen drops sulphuric acid; tincture of bloodroot, one
@@ -270,18 +309,21 @@ whole mass as confectioners do for lozenges, and cut into lozenges the
 ordinary size. Use from six to twelve of these in twenty-four hours.
 They sell at a great profit.
 
-Candied Lemon or Peppermint, for Colds. Boil one and a half pounds of
+Candied Lemon or Peppermint, for Colds.
+Boil one and a half pounds of
 sugar in a half pint of water, till it begins to candy round the sides;
 put in eight drops of essence; pour it upon buttered paper, and cut it
 with a knife.
 
-Camphor Balls, for rubbing on the hands, to prevent chaps, etc.--Melt
+Camphor Balls, for rubbing on the hands, to prevent chaps, etc.
+Melt
 three drachms of spermaceti, four drachms of white wax, and one ounce of
 almond oil; stir in three drachms of powdered camphor. Pour the compound
 into small gallipots, so as to form small hemispherical cakes. They may
 be colored with alkanet, if preferred.
 
-Camphorated Oil. This is another camphor liniment. The proportions
+Camphorated Oil.
+This is another camphor liniment. The proportions
 are the same as in the preceding formula, substituting olive oil for the
 alcohol, and exposing the materials to a moderate heat. As an external
 stimulant application it is even more powerful than the spirits; and to
@@ -308,71 +350,81 @@ is an active rubificant; and after a slight friction with it, it
 produces a grateful, thrilling sensation of heat in the pained part,
 which is rapidly relieved.
 
-Camphor Tablet for Chapped Hands, etc. Melt tallow, and add a little
+Camphor Tablet for Chapped Hands, etc.
+Melt tallow, and add a little
 powdered camphor and glycerine, with a few drops of oil of almonds to
 scent. Pour in molds and cool.
 
-Camphorated Eye-Water. Sulphate of copper, 15 grains; French bolo, 15
+Camphorated Eye-Water.
+Sulphate of copper, 15 grains; French bolo, 15
 grains; camphor, 4 grains; boiling water, 4 oz. Infuse, strain, and
 dilute with 2 quarts of cold water.
 
-Canker-Cure. Take one large teaspoonful of water, two teaspoonfuls of
+Canker-Cure.
+Take one large teaspoonful of water, two teaspoonfuls of
 honey, two of loaf sugar, three of powdered sage, two of powdered
 gold-thread, and one of alum. Stir up all together; put into a vessel,
 and let it simmer moderately over a steady fire. An oven is better. Then
 bottle for use. Give a teaspoonful occasionally through the day.
 
-Cephalic Snuff. Dried asarbacca leaves, three parts; majoram, one
+Cephalic Snuff.
+Dried asarbacca leaves, three parts; majoram, one
 part, lavender flowers, one part; rub together to a powder.
 
-Certain Cure for Headache and all Neuralgic Pains. Opodeldoc, spirits
+Certain Cure for Headache and all Neuralgic Pains.
+Opodeldoc, spirits
 of wine, sal ammoniac, equal parts. To be applied as any other lotion.
 
-Chamomile Pills. Aloes, twelve grains; extract chamomile, thirty-six
+Chamomile Pills.
+Aloes, twelve grains; extract chamomile, thirty-six
 grains; oil of chamomile, three drops; make into twelve pills: two every
 night, or twice a day.
 
-Chlorine Pastiles for Disinfecting the Breath. Dry chloride of lime,
+Chlorine Pastiles for Disinfecting the Breath.
+Dry chloride of lime,
 two drachms; sugar, eight ounces; starch, one ounce, gum tragacanth, one
 drachm; carmine, two grains. Form into small lozenges.
-
 2. Sugar flavored with vanilla, 1 ounce; powdered tragacanth, 20 grains;
 liquid chloride of soda sufficient to mix; add two drops of any
 essential oil. Form a paste and divide into lozenges of 15 grains each.
 
-Cholera Morbus. Take two ounces of the leaves of the bene plant, put
+Cholera Morbus.
+Take two ounces of the leaves of the bene plant, put
 them in half a pint of cold water and let them soak an hour. Give two
 tablespoonfuls hourly, until relief is experienced.
 
-Cholera Remedy. Spirits of wine, one ounce; spirits of lavender,
+Cholera Remedy.
+Spirits of wine, one ounce; spirits of lavender,
 quarter ounce; spirits of camphor, quarter ounce; compound tincture of
 benzoin, half an ounce; oil of origanum, quarter ounce; twenty drops on
 moist sugar. To be rubbed outwardly also.
-
 2. Twenty-five minims of diluted sulphuric acid in an ounce of water.
 
-Corn Remedy. Soak a piece of copper in strong vinegar for twelve or
+Corn Remedy.
+Soak a piece of copper in strong vinegar for twelve or
 twenty-four hours. Pour the liquid off, and bottle. Apply frequently,
 till the corn is removed.
-
 2. Supercarbonate of soda, one ounce, finely pulverized, and mix with
 half an ounce of lard. Apply on a linen rag every night.
 
-Cough Compound. For the cure of coughs, colds, asthma, whooping cough
+Cough Compound.
+For the cure of coughs, colds, asthma, whooping cough
 and all diseases of the lungs; One spoonful of common tar, three
 spoonfuls of honey, the yolk of three hen's eggs, and half a pint of
 wine; beat the tar, eggs and honey well together with a knife, and
 bottle for use. A teaspoonful every morning, noon and night, before
 eating.
 
-Cough Syrup. Put one quart hoarhound to one quart water, and boil it
+Cough Syrup.
+Put one quart hoarhound to one quart water, and boil it
 down to a pint; add two or three sticks of licorice and a tablespoonful
 of essence of lemon. Take a tablespoonful of the syrup three times a
 day, or as often as the cough may be troublesome. The above receipt has
 been sold for $100. Several firms are making much money by its
 manufacture.
 
-Cure for Diarrhea. The following is said to be an excellent cure for
+Cure for Diarrhea.
+The following is said to be an excellent cure for
 the above distressing complaint: Laudanum, two ounces; spirits of
 camphor, two ounces; essence of peppermint, two ounces; Hoffman's
 anodyne, two ounces; tincture of cayenne pepper, two drachms; tincture
@@ -383,12 +435,14 @@ diarrhea in ten minutes, and abate other premonitory symptoms of cholera
 immediately. In cases of cholera, it has been used with great success to
 restore reaction by outward application.
 
-Digestive Pills. Rhubarb, two ounces; ipecacuanha, half an ounce;
+Digestive Pills.
+Rhubarb, two ounces; ipecacuanha, half an ounce;
 cayenne pepper, quarter of an ounce; soap, half an ounce; ginger,
 quarter of an ounce; gamboge, half an ounce. Mix, and divide into four
 grain pills.
 
-Dried Herbs. All herbs which are to be dried should be washed,
+Dried Herbs.
+All herbs which are to be dried should be washed,
 separated, and carefully picked over, then spread on a coarse paper and
 keep in a room until perfectly dry. Those which are intended for cooking
 should be stripped from the stems and rubbed very fine. Then put them in
@@ -396,7 +450,8 @@ bottles and cork tightly. Put those which are intended for medicinal
 purposes into paper bags, and keep them in a dry place.
 
 Dysentery Specific, (particularly for bloody dysentery in Adults and
-Children.)--Take one pound gum arabic, one ounce gum tragacanth,
+Children.)
+Take one pound gum arabic, one ounce gum tragacanth,
 dissolved in two quarts of soft water, and strained. Then take one pound
 of cloves, half a pound of cinnamon, half a pound allspice, and boil in
 two quarts of soft water, and strain. Add it to the gums, and boil all
@@ -406,32 +461,37 @@ add to it half a pint sweet tincture rhubarb, and a pint and a half of
 best brandy. Cork it tight in bottles, as the gums will sour, if
 exposed. If corked properly it will keep for years.
 
-Anti-Bilious Pills. Compound extract of colocynth, 60 grains;
+Anti-Bilious Pills.
+Compound extract of colocynth, 60 grains;
 rhubarb, 30 grains; soap, 10 grains. Make into 24 pills. Dose 2 to 4.
-
 Compound extract of colocynth, 2 drachms; extract of rhubarb, half a
 drachm; soap, 10 grains. Mix, and divide into 40 pills. Dose, 1, 2, or
 3.
 
-Scammony, 10 to 15 grains; compound extract of colocynth, 2 scruples;
+Scammony, 10 to 15 grains.
+Compound extract of colocynth, 2 scruples;
 extract of rhubarb, half a drachm; soap, 10 grains; oil of caraway, 5
 drops. Make into 20 pills. Dose, 1 or 2, as required.
 
-Great Pain Extractor. Spirits of ammonia, one ounce; laudanum, one
+Great Pain Extractor.
+Spirits of ammonia, one ounce; laudanum, one
 ounce; oil of organum, one ounce; mutton tallow, half-pound; combine the
 articles with the tallow when it is nearly cool.
 
-Godfrey's Cordial. Sassafras, six ounces; seeds of coriander, caraway
+Godfrey's Cordial.
+Sassafras, six ounces; seeds of coriander, caraway
 and anise, of each one ounce; infuse in six pints of water; simmer the
 mixture till reduced to four pints; then add six pounds of molasses;
 boil a few minutes; when cold, add three fluid ounces of tincture of
 opium. For children teething.
 
-Hydrophobia, to Prevent. Elecampane, one drachm; chalk, four drachms;
+Hydrophobia, to Prevent.
+Elecampane, one drachm; chalk, four drachms;
 Armenian bole, three drachms; alum, ten grains; oil of aniseseed, five
 drops.
 
-Infant's Syrup. The syrup is made thus: one pound best box raisins,
+Infant's Syrup.
+The syrup is made thus: one pound best box raisins,
 half an ounce of aniseseed, two sticks licorice; split the raisins,
 pound the aniseseed, and cut the licorice fine; add to it three quarts
 of rain water, and boil down to two quarts. Feed three or four times a
@@ -439,14 +499,17 @@ day, as much as the child will willingly drink. The raisins are to
 strengthen, the anise is to expel the wind, and the licorice as a
 physic.
 
-Basilicon Ointment. Good resin, five parts; lard, eight parts; yellow
+Basilicon Ointment.
+Good resin, five parts; lard, eight parts; yellow
 wax, two parts. Melt, and stir together till cool.
 
-Cancer Ointment. White arsenic, sulphur, powdered flowers of lesser
+Cancer Ointment.
+White arsenic, sulphur, powdered flowers of lesser
 spearwort, and stinking chamomile, levigated together and formed into a
 paste with white of egg.
 
-Elder Flower Ointment. Lard, twenty-five pounds; prepared mutton
+Elder Flower Ointment.
+Lard, twenty-five pounds; prepared mutton
 suet, five pounds; melt in an earthen vessel; add elder flower water,
 three gallons. Agitate for half an hour, and set it aside; the next day
 gently pour off the water, remelt the ointment, add benzoic acid three
@@ -454,34 +517,42 @@ drachms; otto of roses, twenty drops; essence of bergamot and oil of
 rosemary, of each, thirty drops; again agitate well, let it settle for
 a few minutes, and pour off the clear into pots.
 
-Eruption Ointment, for Frosted Feet, etc. Chrome yellow, and hog's
+Eruption Ointment, for Frosted Feet, etc.
+Chrome yellow, and hog's
 lard.
 
-Foot Ointment (for all domestic animals).--Equal parts of tar, lard
+Foot Ointment (for all domestic animals).
+Equal parts of tar, lard
 and resin, melted together.
 
-Golden Ointment. Orpiment, mixed with lard to the consistence of an
+Golden Ointment.
+Orpiment, mixed with lard to the consistence of an
 ointment.
 
-Pile Ointment. Powdered nutgall, two drachms; camphor, one drachm;
+Pile Ointment.
+Powdered nutgall, two drachms; camphor, one drachm;
 melted wax, one ounce; tincture of opium, two drachms. Mix.
 
-Swaim's Vermifuge. Wormseed, two ounces: valerian, rhubarb,
+Swaim's Vermifuge.
+Wormseed, two ounces: valerian, rhubarb,
 pink-root, white agaric, of each, one and a half ounces; boil in
 sufficient water to yield three quarts of decoction, and add to it
 thirty drops of oil of tansy, and forty-five drops of oil of cloves,
 dissolved in a quart of rectified spirits. Dose, one teaspoonful at
 night.
 
-For Tetter, Ringworm, and Scald Head. One pound simple cerate;
+For Tetter, Ringworm, and Scald Head.
+One pound simple cerate;
 sulphuric acid, one-quarter of a pound; mix together, and ready for use.
 
-Tincture for Wounds. Digest flowers of St. Johnswart, one handful, in
+Tincture for Wounds.
+Digest flowers of St. Johnswart, one handful, in
 half a pint of rectified spirits, then express the liquor and dissolve
 it in myrrh, aloes, and dragon's blood, of each one drachm, with Canada
 balsam, half an ounce.
 
-Tonic. The following is the tonic used by reformed drunkards to
+Tonic.
+The following is the tonic used by reformed drunkards to
 restore the vigor of the stomach. Take of gentian root, half an ounce;
 valerian root, one drachm; best rhubarb root, two drachms; bitter orange
 peel, three drachms; cardamom seeds, half an ounce; and cinnamon bark,
@@ -493,58 +564,67 @@ be taken every hour before meals, and half that quantity whenever the
 patient feels that distressing sickness and prostration so generally
 present for some time after alcoholic stimulants have been abandoned.
 
-Whooping Cough. Mix a quarter of a pound of ground elecampane root in
+Whooping Cough.
+Mix a quarter of a pound of ground elecampane root in
 half a pint of strained honey and half a pint of water. Put them in a
 glazed earthen pot, and place it in a stone oven, with half the heat
 required to bake bread. Let it bake until about the consistency of
 strained honey, and take it out. Administer in doses of a teaspoonful
 before each meal, to a child; if an adult, double the dose.
 
-Wild Cherry Bitters. Boil a pound of wild cherry bark in a quart of
+Wild Cherry Bitters.
+Boil a pound of wild cherry bark in a quart of
 water till reduced to a pint. Sweeten and add a little rum to preserve,
 or, if to be used immediately, omit the rum. Dose, a wineglassful three
 times a day, on an empty stomach.
 
-A Certain Cure for Drunkenness. Sulphate of iron, 5 grains; magnesia,
+A Certain Cure for Drunkenness.
+Sulphate of iron, 5 grains; magnesia,
 10 grains peppermint water, 11 drachms; spirits of nutmeg, 1 drachm;
 twice a day. This preparation acts as a tonic and stimulant, and so
 partially supplies the place of the accustomed liquor, and prevents that
 absolute physical and moral prostration that follows a sudden breaking
 off from the use of stimulating drinks.
 
-Indelible Ink for Marking Clothing. Nitrate of silver, five scruples;
+Indelible Ink for Marking Clothing.
+Nitrate of silver, five scruples;
 gum arabic, two drachms; sap green, one scruple; distilled water, one
 ounce; mix together. Before writing on the article to be marked, apply a
 little of the following: carbonate of soda, one-half ounce; distilled
 water, four ounces; let this last, which is the mordant, get dry; then,
 with a quill pen, write what you require.
 
-Imitation Gold. 16 parts platina; 7 parts copper; 1 part zinc. Put in
+Imitation Gold.
+16 parts platina; 7 parts copper; 1 part zinc. Put in
 a covered crucible, with powdered charcoal, and melt together till the
 whole forms one mass, and are thoroughly incorporated together. Or, take
 4 oz. platina, 3 oz. silver, 1 oz. copper.
 
-Imitation Silver. 11 oz. refined nickel; 2 oz. metalic bismuth. Melt
+Imitation Silver.
+11 oz. refined nickel; 2 oz. metalic bismuth. Melt
 the compositions together three times, and pour them out in ley. The
 third time, when melting, add 2 oz. pure silver. Or take ¼ oz. copper, 1
 oz. bismuth, 2 oz. saltpetre, 2 oz. common salt, 1 oz. arsenic, 1 oz.
 potash, 2 oz. brass, and 3 oz. pure silver. Melt all together in a
 crucible.
 
-Recipe for Making Artificial Honey. To 10 lbs. sugar add 3 lbs.
+Recipe for Making Artificial Honey.
+To 10 lbs. sugar add 3 lbs.
 water, 40 grains cream tartar, 10 drops essence peppermint, and 3 lbs.
 strained honey. First dissolve the sugar in water, and take off the
 scum; then dissolve the cream of tartar in a little warm water, which
 you will add with some little stirring; then add the honey; heat to a
 boiling point, and stir for a few minutes.
 
-Vinegar. Take forty gallons of soft water, six quarts of cheap
+Vinegar.
+Take forty gallons of soft water, six quarts of cheap
 molasses, and six pounds of acetic acid; put them into a barrel (an old
 vinegar barrel is best), and let them stand from three to ten weeks,
 stirring occasionally. Add a little "mother" of old vinegar if
 convenient. Age improves it.
 
-Soft Soap. Dissolve fifteen pounds of common cheap hard soap in
+Soft Soap.
+Dissolve fifteen pounds of common cheap hard soap in
 fifteen gallons of hot water, and let it cool. Then dissolve fifteen
 pounds of sal soda in fifteen gallons of hot water; add six pounds of
 unslaked lime, and boil twenty minutes. Let it cool and settle, and then
@@ -553,20 +633,23 @@ solution. It improves it very much to add one quart of alcohol after
 mixing the two solutions. Smaller quantities can be made in the same
 proportions. If too strong, add water to suit.
 
-Babbit's Premium Soap. 5 gals, strong ley; 5 gals water; 5 lbs.
+Babbit's Premium Soap.
+5 gals, strong ley; 5 gals water; 5 lbs.
 tallow; 1 lb. potash; 2 lbs. sal soda; ½ lb. rosin; 1 pt. salt; 1 pt.
 washing fluid. Let the water boil; then put in the articles, and boil
 half an hour. Stir it well while boiling, and then run into moulds. It
 will be ready for use as soon as cold. The above preparations are for
 100 pounds of soap.
 
-Celebrated Recipe for Silver Wash. One ounce of nitric acid, one
+Celebrated Recipe for Silver Wash.
+One ounce of nitric acid, one
 ten-cent piece, and one ounce of quick-silver. Put in an open glass
 vessel and let it stand until dissolved; then add one pint of water, and
 it is ready for use. Make it into a powder by adding whiting, and it may
 be used on brass, copper, German silver, etc.
 
-Cement for Aquaria. Many persons have attempted to make aquarium, but
+Cement for Aquaria.
+Many persons have attempted to make aquarium, but
 have failed on account of the extreme difficulty in making the tank
 resist the action of water for any length of time. Below is a recipe for
 a cement that can be relied upon; it is perfectly free from anything
@@ -584,18 +667,21 @@ fifteen hours. This cement can be used for marine as well as fresh water
 aquaria, as it resists the action of salt water. The tank can be used
 immediately, but it is best to give it three or four hours to dry.
 
-Cement for Attaching Metal to Glass. Take two ounces of a thick
+Cement for Attaching Metal to Glass.
+Take two ounces of a thick
 solution of glue, and mix it with one ounce of linseed-oil varnish, and
 half an ounce of pure turpentine; the whole are then boiled together in
 a close vessel. The two bodies should be clamped and held together for
 about two days after they are united, to allow the cement to become
 dry. The clamps may then be removed.
 
-Cement for Mending Broken China. Stir plaster of Paris into a thick
+Cement for Mending Broken China.
+Stir plaster of Paris into a thick
 solution of gum arabic, till it becomes a viscous paste. Apply it with a
 brush to the fractured edges, and draw the parts closely together.
 
-Cement for Mending Steam Boilers. Mix two parts of finely powdered
+Cement for Mending Steam Boilers.
+Mix two parts of finely powdered
 litharge with one part of very fine sand, and one part of quicklime
 which has been allowed to slack spontaneously by exposure to the air.
 This mixture may be kept for any length of time without injury. In using
@@ -603,7 +689,8 @@ it a portion is mixed into paste with linseed oil, or, still better,
 boiled linseed oil. In this state it must be quickly applied, as it soon
 becomes hard.
 
-Cheap White House Paint. Take skim milk, two quarts, eight ounces
+Cheap White House Paint.
+Take skim milk, two quarts, eight ounces
 fresh slaked lime, six ounces linseed oil; two ounces white Burgundy
 pitch, three pounds Spanish white. Slake the lime in water, expose it to
 the air, and mix in about one-quarter of the milk, the oil, in which the
@@ -613,17 +700,20 @@ sufficient for thirty square yards, two coats, and costs but a few
 cents. If the other colors are wanted, use, instead of Spanish white,
 other coloring matter.
 
-Composition for House-Roofs. Take one measure of fine sand, two of
+Composition for House-Roofs.
+Take one measure of fine sand, two of
 sifted wood-ashes, and three of lime, ground up with oil. Mix
 thoroughly, and lay on with a painter's brush, first a thin coat and
 then a thick one. This composition is not only cheap, but it strongly
 resists fire.
 
-Diamond Cement. Isinglass, one ounce; distilled vinegar, five and a
+Diamond Cement.
+Isinglass, one ounce; distilled vinegar, five and a
 half ounces; spirits of wine, two ounces; gum ammoniacum, half an ounce;
 gum mastic, half an ounce. Mix well.
 
-French Polish. To one pint of spirits of wine, add a quarter of an
+French Polish.
+To one pint of spirits of wine, add a quarter of an
 ounce of gum copal, a quarter of an ounce of gum arabic, and one ounce
 of shellac. Let the gums be well bruised, and sifted through a piece of
 muslin. Put the spirits and the gums together in a vessel that can be
@@ -631,18 +721,21 @@ closely corked; place them near a warm stove, and frequently shake them;
 in two or three days they will be dissolved; strain the mixture through
 a piece of muslin, and keep it tightly corked for use.
 
-Furniture Oil for Polishing and Staining Mahogany. Take of linseed
+Furniture Oil for Polishing and Staining Mahogany.
+Take of linseed
 oil, one gallon; alkanet root, three ounces; rose pink, one ounce. Boil
 them together ten minutes, and strain so that the oil be quite clear.
 The furniture should be well rubbed with it every day until the polish
 is brought up, which will be more durable than any other.
 
-Glue for ready Use. To any quantity of glue use common whiskey
+Glue for ready Use.
+To any quantity of glue use common whiskey
 instead of water. Put both together in a bottle, cork tight, and set it
 away for three or four days, when it will be fit for use without the
 application of heat.
 
-A Quart of Ink, for a Dime. Buy extract of logwood, which may be had
+A Quart of Ink,
+for a Dime. Buy extract of logwood, which may be had
 at three cents an ounce, or cheaper by the quantity. Buy also, for three
 cents, an ounce of bi-chromate of potash. Do not make a mistake, and
 get the simple chromate of potash. The former is orange red, and the
@@ -654,11 +747,13 @@ ink is then made, and has cost five to ten minutes' labor, and about
 three cents, beside the bottle. The ink is at first an intense steel
 blue, but becomes quite black.
 
-An Excellent Substitute for Ink. Put a couple of iron nails into a
+An Excellent Substitute for Ink.
+Put a couple of iron nails into a
 teaspoonful of vinegar. In half an hour pour in a tablespoonful of
 strong tea, and then you will have ink enough for a while.
 
-Ink, First-Rate Black. Take twelve pounds of bruised galls, five
+Ink, First-Rate Black.
+Take twelve pounds of bruised galls, five
 pounds of gum Senegal, five pounds of green sulphate of iron, and twelve
 gallons of rain water. Boil the galls with nine gallons of water for
 three hours, adding fresh water to replace what is lost by evaporation.
@@ -666,27 +761,32 @@ Let the decoction settle, and draw off the clear liquor; add to it a
 strained solution of the gum; dissolve also the sulphate of iron
 separately, and mix the whole.
 
-Ink, Blue. Chinese blue, three ounces; oxalic acid, (pure,)
+Ink, Blue.
+Chinese blue, three ounces; oxalic acid, (pure,)
 three-quarters of an ounce; gum arabic, powdered, one ounce; distilled
 water, six pints. Mix.
 
-Ink, Cheap Printing. Take equal parts of lampblack and oil; mix and
+Ink, Cheap Printing.
+Take equal parts of lampblack and oil; mix and
 keep on the fire till reduced to the right consistency. This is a good
 ink for common purposes, and is very cheap. We have used it extensively
 ourselves.
 
-Ink, Copying. Dissolve half an ounce of gum and twenty grains of
+Ink, Copying.
+Dissolve half an ounce of gum and twenty grains of
 Spanish licorice in thirteen drachms of water, and add one drachm of
 lampblack, previously mixed with a teaspoonful of sherry.
 
-Ink, Indelible. To four drachms of lunar caustic, in four ounces of
+Ink, Indelible.
+To four drachms of lunar caustic, in four ounces of
 water, add 60 drops of nutgalls, made strong by being pulverized and
 steeped in soft water. The mordant, which is to be applied to the cloth
 before writing, is composed of one ounce of pearlash, dissolved in four
 ounces of water, with a little gum arabic dissolved in it. Wet the spot
 with this; dry and iron the cloth; then write.
 
-Ink, Indelible Marking. One and a half drachms of nitrate of silver,
+Ink, Indelible Marking.
+One and a half drachms of nitrate of silver,
 one ounce of distilled water, half an ounce of strong mucilage of gum
 arabic, three-quarters of a drachm of liquid ammonia. Mix the above in a
 clean glass bottle, cork tightly, and keep in a dark place till
@@ -697,7 +797,8 @@ scorching), or pass a hot iron over it, and it will become a deep and
 indelible black, indestructible by either time or acids of any
 description.
 
-Ink, Indestructible. On many occasions it is of importance to employ
+Ink, Indestructible.
+On many occasions it is of importance to employ
 an ink indestructible by any process, that will not equally destroy the
 material on which it is applied. For black ink, twenty-five grains of
 copal, in powder, are to be dissolved in two hundred grains of oil of
@@ -706,21 +807,25 @@ with two and a half grains of lampblack and half a grain of indigo. This
 ink is particularly useful for labelling phials, &c., containing
 chemical, substances of a corrosive nature.
 
-Ink for Marking Linen with Type. Dissolve one part of asphaltum in
+Ink for Marking Linen with Type.
+Dissolve one part of asphaltum in
 four parts of oil of turpentine, and lamp-black or black-lead, in fine
 powder, in sufficient quantity to render of proper consistency to print
 with type.
 
-Ink Powder for Immediate Use. Reduce to powder ten ounces of
+Ink Powder for Immediate Use.
+Reduce to powder ten ounces of
 gall-nuts, three ounces of green copperas, two ounces each of powdered
 alum and gum arabic. Put a little of this mixture into white wine, and
 it will be fit for immediate use.
 
-Ink Stains. The moment the ink is spilled, take a little milk, and
+Ink Stains.
+The moment the ink is spilled, take a little milk, and
 saturate the stain, soak it up with a rag, and apply a little more milk,
 rubbing it well in. In a few minutes the ink will be completely removed.
 
-Red Ink. Take of the raspings of Brazil wood, quarter of a pound, and
+Red Ink.
+Take of the raspings of Brazil wood, quarter of a pound, and
 infuse them two or three days in colorless vinegar. Boil the infusion
 one hour and a half over a gentle fire, and afterward filter it while
 hot, through paper laid in an earthenware cullender. Put it again over
@@ -729,7 +834,8 @@ afterward of alum and white sugar each half an ounce. Care should be
 taken that the Brazil wood be not adulterated with the Braziletto or
 campeachy wood.
 
-Transfer Ink. Mastic in tears, four ounces; shellac, six oz.; Venice
+Transfer Ink.
+Mastic in tears, four ounces; shellac, six oz.; Venice
 turpentine, half an ounce; melt together; add wax, half a pound; tallow,
 three ounces. When dissolved, further add hard tallow soap (in
 shavings), three ounces; and when the whole is combined, add lampblack,
@@ -738,7 +844,8 @@ ink is rubbed down with a little water in a cup or saucer, in the same
 way as water-color cakes. In winter, the operation should be performed
 near the fire.
 
-Indian Glues. Take one pound of the best glue, the stronger the
+Indian Glues.
+Take one pound of the best glue, the stronger the
 better, boil it and strain it very clear; boil also four ounces of
 isinglass; put the mixture into a double glue pot, add half a pound of
 brown sugar, and boil the whole until it gets thick; then pour it into
@@ -752,7 +859,8 @@ woods, and cements china, etc., though, of course, it will not resist
 the action of hot water. For parchment and paper, in lieu of gum or
 paste, it will be found equally convenient.
 
-Japanese Cement. Intimately mix the best powdered rice with a little
+Japanese Cement.
+Intimately mix the best powdered rice with a little
 cold water, then gradually add boiling water until a proper consistence
 is acquired, being particularly careful to keep it well stirred all the
 time; lastly, it must be boiled for one minute in a clean saucepan or
@@ -760,11 +868,13 @@ earthern pipkin. This glue is beautifully white and almost transparent,
 for which reason it is well adapted for fancy paper work, which requires
 a strong and colorless cement.
 
-Liquid Blacking. Mix a quarter of a pound of ivory-black, six gills
+Liquid Blacking.
+Mix a quarter of a pound of ivory-black, six gills
 of vinegar, a tablespoonful of sweet oil, and two large spoonfuls of
 molasses. Stir the whole well together, and it will then be fit for use.
 
-Liquid Glue. Dissolve one part of powdered alum, one hundred and
+Liquid Glue.
+Dissolve one part of powdered alum, one hundred and
 twenty parts of water; add one hundred and twenty parts of glue, ten of
 acetic acid, and forty of alcohol, and digest. Prepared glue is made by
 dissolving common glue in warm water, and then adding acetic acid
@@ -772,7 +882,8 @@ dissolving common glue in warm water, and then adding acetic acid
 a half pints of water, and add one pint of vinegar. It is then ready for
 use.
 
-Magic Copying Paper. To make black paper, lampblack mixed with cold
+Magic Copying Paper.
+To make black paper, lampblack mixed with cold
 lard; red paper, Venetian red mixed with lard; blue paper, Prussian blue
 mixed with lard; green paper, Chrome green mixed with lard. The above
 ingredients to be mixed to the consistency of thick paste, and to be
@@ -781,18 +892,20 @@ all color ceases coming off. Cut your sheets four inches wide and six
 inches long; put four sheets together, one of each color, and sell for
 twenty-five cents per package. The first cost will not exceed three
 cents.
-
-Directions for writing with this paper: Lay down your paper upon which
+Directions for writing with this paper.
+Lay down your paper upon which
 you wish to write; then lay on the copying paper, and over this lay any
 scrap of paper you choose; then take any hard pointed substance and
 write as you would with a pen.
 
-Mahogany Stain. Break two ounces of dragon's blood in pieces, and put
+Mahogany Stain.
+Break two ounces of dragon's blood in pieces, and put
 them in a quart of rectified spirits of wine; let the bottle stand in a
 warm place, and shake it frequently. When dissolved, it is fit for use,
 and will render common wood an excellent imitation of mahogany.
 
-Marine Glue. Dissolve four parts of India-rubber in thirty-four parts
+Marine Glue.
+Dissolve four parts of India-rubber in thirty-four parts
 of coal tar naptha, aiding the solution with heat and agitation. The
 solution is then thick as cream, and it should be added to sixty-four
 parts of powdered shellac, which must be heated in the mixture till all
@@ -802,10 +915,12 @@ required to be used, it is put into a pot and heated till it is soft,
 and then applied with a brush to the surfaces to be joined. Two pieces
 of wood joined with this cement can scarcely be sundered.
 
-Parchment. Paper parchment may be produced by immersing paper in a
+Parchment.
+Paper parchment may be produced by immersing paper in a
 concentratic solution of chloride of zinc.
 
-Amalgam of Gold. Place one part of gold in a small iron saucepan or
+Amalgam of Gold.
+Place one part of gold in a small iron saucepan or
 ladle, perfectly clean, then add 8 parts of mercury, and apply a gentle
 heat, when the gold will dissolve; agitate the mixture for one minute,
 and pour it out on a clean plate or stone slab.
@@ -814,18 +929,19 @@ For gilding brass, copper etc. The metal to be gilded is first rubbed
 over with a solution of nitrate of mercury, and then covered with a very
 thin film of the amalgam. On heat being applied the mercury volatilizes,
 leaving the gold behind.
-
 A much less proportion of gold is often employed than the above, where a
 very thin and cheap gilding is required, as by increasing the quantity
 of the mercury, the precious metal may be extended over a much larger
 surface. A similar amalgam prepared with silver is used for silvering.
 
-Amalgam for Mirrors. Lead and tin, each 1 oz; bismuth, 2 oz; mercury,
+Amalgam for Mirrors.
+Lead and tin, each 1 oz; bismuth, 2 oz; mercury,
 4 oz.; melt as before, and add the mercury. These are used to silver
 mirrors, glass globes, etc., by warming the glass, melting the amalgam,
 and applying it.
 
-Annealing Steel. 1. For a small quantity. Heat the steel to a cherry
+Annealing Steel.
+1. For a small quantity. Heat the steel to a cherry
 red in a charcoal fire, then bury in sawdust, in an iron box, covering
 the sawdust with ashes. Let stay until cold. 2. For a larger quantity,
 and when it is required to be very "soft." Pack the steel with cast iron
@@ -837,7 +953,8 @@ lastly, at least 1 inch in depth of chips, well rammed down on top of
 steel. Heat to and keep at a red heat for from two to four hours. Do not
 disturb the box until cold.
 
-To make Bell Metal. 1. Melt together under powdered charcoal, 100
+To make Bell Metal.
+1. Melt together under powdered charcoal, 100
 parts of pure copper, with 20 parts of tin, and unite the two metals by
 frequently stirring the mass. Product very fine. 2. Copper 3 parts; tin
 1 part; as above. Some of the finest church bells in the world have this
@@ -845,21 +962,23 @@ composition. 3. Copper 2 parts: tin 1 part; as above. 4. Copper 72
 parts; tin 26½ parts; iron 1½ parts. The bells of small clocks or
 pendules are made of this alloy in Paris.
 
-Brass to Make. 1. Fine Brass. 2 parts of copper to 1 part of zinc.
+Brass to Make.
+1. Fine Brass. 2 parts of copper to 1 part of zinc.
 This is nearly one equivalent each of copper and zinc, if the equivalent
 of the former metal be taken at 63-2; or 2 equivalents of copper to 1
 equivalent of zine, if it be taken with Liebig and Berzelius, at 31-6.
-
 2. Copper 4 parts, zinc 1 part. An excellent and very useful brass.
 
-Cleansing Solution for Brass. Put together two ounces sulphuric acid,
+Cleansing Solution for Brass.
+Put together two ounces sulphuric acid,
 an ounce and a half nitric acid, one dram saltpetre and two ounces rain
 water. Let stand for a few hours, and apply by passing the article in
 and out quickly, and then washing off thoroughly with clean rain water.
 Old, discolored brass chains treated in this way will look equally as
 well as when new. The usual method of drying as in sawdust.
 
-To Cover Brass with beautiful Luster Colors. One ounce of cream of
+To Cover Brass with beautiful Luster Colors.
+One ounce of cream of
 tartar is dissolved in one quart of hot water, to which is added half an
 ounce of tin salt (protochloride of tin) dissolved in four ounces of
 cold water. The whole is then heated to boiling, the clear solution
@@ -875,7 +994,8 @@ copper and lead, which, however, are not remarkable for their stability;
 whether this defect will be obviated by the use of the tin solution,
 experience and time alone can show.
 
-Bronzing Gun-Barrels. The so-called butter of zinc used for bronzing
+Bronzing Gun-Barrels.
+The so-called butter of zinc used for bronzing
 gun-barrels is made by dissolving zinc in hydrochloric acid till no more
 free acid is left; which is secured by placing zinc in the acid until it
 ceases to be dissolved. The liquid is then evaporated until a drop taken
@@ -884,25 +1004,29 @@ mixed with 2 parts of olive oil for every three parts of the liquid. The
 barrels must be cleansed and warmed before applying the so-called
 butter, which put on with a piece of linen rag.
 
-Bronzing Fluid. For brown: Iron filings, or scales, 1 lb.; arsenic, 1
+Bronzing Fluid.
+For brown: Iron filings, or scales, 1 lb.; arsenic, 1
 oz.; hydrochloric acid, 1 lb.; metallic zinc, 1 oz. The article to be
 bronzed is to be dipped in this solution till the desired effect be
 produced.
 
-Bronze, Green. Acetic acid, diluted, 4 lbs; green veriter, 2 oz.;
+Bronze, Green.
+Acetic acid, diluted, 4 lbs; green veriter, 2 oz.;
 muriate of ammonia, 1 oz.; common salt, 2 oz.; alum, ½ oz.; French
 berries, ½ lb.; boil them together till the berries have yielded their
 color, and strain. Olive bronze, for brass or copper. Nitric acid, 1
 oz.; hydrochloric acid, 2 oz.; titanium or palladium, as much as will
 dissolve, and add three pints of distilled water.
 
-To Soften Cast-Iron, for Drilling. Heat to a cherry red, having it
+To Soften Cast-Iron, for Drilling.
+Heat to a cherry red, having it
 lie level in the fire, then with a pair of cold tongs put on a piece of
 brimstone, a little less in size than you wish the hole to be when
 drilled, and it softens entirely through the piece; let it lie in the
 fire until a little cool, when it is ready to drill.
 
-To Weld Cast-Iron. Take of good clear white sand, three parts;
+To Weld Cast-Iron.
+Take of good clear white sand, three parts;
 refined solton, one part; fosterine, one part; rock-salt, one part; mix
 all together. Take 2 pieces of cast-iron, heat them in a moderate
 charcoal-fire, occasionally taking them out while heating, and dipping
@@ -912,7 +1036,8 @@ done carefully by one who understands welding iron, you will have them
 nicely welded together. One man prefers heating the metal, then cooling
 it in the water of common beans, and heat it again for welding.
 
-To recut old Files and Rasps. Dissolve 4 oz. of saleratus in 1 quart
+To recut old Files and Rasps.
+Dissolve 4 oz. of saleratus in 1 quart
 of water, and boil the files in it for half an hour; then remove, wash
 and dry them. Now have ready, in a glass or stoneware vessel, 1 quart of
 rain water, into which you have slowly added 4 oz. of best sulphuric
@@ -930,7 +1055,8 @@ time. Files may be recut three times by this process. The liquid may be
 used at different times if required. Keep away from children, as it is
 poisonous.
 
-Twist, Browning for Gun-Barrels. Take spirits of nitre ¾ oz.;
+Twist, Browning for Gun-Barrels.
+Take spirits of nitre ¾ oz.;
 tincture of steel, ¾ oz.: (if the tincture of steel cannot be obtained,
 the unmedicated tincture of iron may be used, but it is not so good)
 black brimstone, ¼ oz.; blue vitriol, ½ oz.; corrosive sublimate, ¼ oz.;
@@ -938,7 +1064,8 @@ nitric acid, 1 dr. or 60 drops; copperas, ¼ oz.; mix with 1½ pts. of
 rain water, keep corked, also, as the other, and the process of applying
 is also the same.
 
-Gun Metal. 1. Melt together 112 lbs. of Bristol brass, 14 lbs. of
+Gun Metal.
+1. Melt together 112 lbs. of Bristol brass, 14 lbs. of
 spelter, and 7 lbs. of block tin. 2. Melt together 9 parts of copper
 and 1 part of tin; the above compounds are those used in the manufacture
 of small and great brass guns, swivels, etc.
@@ -2179,7 +2306,8 @@ when four inches high. When too long, the flavor seems to have run to
 wood, and the peculiar aroma of green peas is weaker.
 
 There is yet another mode of making green pea soup at any season at very
-short notice. Chip the peas by steeping them in water and leaving them
+short notice.
+Chip the peas by steeping them in water and leaving them
 in a warm place for a few days. Then slightly boil or stew, chips and
 all, and pass them through a sieve. The flavor is full and good, though
 such pea soup lacks color. It is astonishing how much the mere
@@ -2188,7 +2316,8 @@ qualities; a fact that might often be turned to useful account in the
 kitchen in the flavoring of soups or dishes, with turnips, celery,
 parsley, etc.
 
-Composition for Restoring Scorched Linen. Boil, to a good
+Composition for Restoring Scorched Linen.
+Boil, to a good
 consistency, in half a pint of vinegar, two ounces of fuller's earth, an
 ounce of hen's dung, half an ounce of cake soap, and the juice of two
 onions. Spread this composition over the whole of the damaged part; and
@@ -2197,11 +2326,13 @@ consumed, after suffering it to dry on, and letting it receive a
 subsequent good washing or two, the place will appear full as white and
 perfect as any other part of the linen.
 
-To Remove Indelible Ink Stains. Soak the stained spot in strong salt
+To Remove Indelible Ink Stains.
+Soak the stained spot in strong salt
 water, then wash it with ammonia. Salt changes the nitrate of silver
 into chloride of silver, and ammonia dissolves the chloride.
 
-To Cook Cauliflower. Choose those that are close and white and of
+To Cook Cauliflower.
+Choose those that are close and white and of
 middle size, trim off the outside leaves, cut the stalk off flat at the
 bottom, let them lie in salt and water an hour before you boil them. Put
 them into boiling water with a handful of salt in it, skim it well and
@@ -2209,7 +2340,8 @@ let it boil slowly till done. Fifteen minutes will suffice for a small
 one, and twenty will be long enough for a large one. If it is boiled a
 minute or two after it is done the flavor will be impaired.
 
-To Pickle String Beans. Place them in a pan with alternate layers of
+To Pickle String Beans.
+Place them in a pan with alternate layers of
 salt and leave them thus for 24 hours. Drain them and place them in a
 jar with allspice, cloves, pepper and a little salt. Boil enough vinegar
 to cover them, pour over them and let them stand till the next day, boil
@@ -2217,7 +2349,8 @@ the vinegar the second time, and pour it on again. The next day boil the
 vinegar for the last time, pour it over the beans, and when quite cold,
 cover the jar tightly and set in a cool closet.
 
-How to Cause a Baby to Thrive and Grow. Try the milk first drawn from
+How to Cause a Baby to Thrive and Grow.
+Try the milk first drawn from
 a cow that is fresh, add one-quarter water, and a little sugar. If the
 milk constipates, sweeten it with molasses, or mix with it a small
 quantity of magnesia. Abjure soothing syrups, and for colic give catnip
@@ -2227,7 +2360,8 @@ and then sleep. We find open air the best of tonics for babies. Ours
 takes his naps out of doors in the shade during the warm weather, and
 his cheeks are two roses.
 
-To Can Gooseberries without Breaking them. Fill the cans with
+To Can Gooseberries without Breaking them.
+Fill the cans with
 berries, and partly cover with water, set the jars into a vessel of
 water, and raise the temperature to the boiling point. Boil eight
 minutes, remove from the kettle, cover with boiling water, and seal
@@ -2237,20 +2371,23 @@ instead of water. The glass cans with glass tops, a rubber and a screw
 ring, we have found the simplest and most perfect of the many kinds
 offered for sale in the market.
 
-Ready Mode of Mending Cracks in Stoves, Pipes and Iron Ovens. When a
+Ready Mode of Mending Cracks in Stoves,
+Pipes and Iron Ovens. When a
 crack is discovered in a stove, through which the fire or smoke
 penetrates, the aperture may be completely closed in a moment with a
 composition consisting of wood ashes and common salt made up into paste
 with a little water, and plastered over the crack. The good effect is
 equally certain, whether the stove, etc., be cold or hot.
 
-To Keep Milk from Turning Sour. Add a little sub-carbonate of soda,
+To Keep Milk from Turning Sour.
+Add a little sub-carbonate of soda,
 or of potash. This by combining with, and neutralizing the acetic acid
 formed, has the desired effect, and keeps the milk from turning sooner
 than it otherwise would. The addition is perfectly harmless, and does
 not injure the taste.
 
-Strawberry Vinegar. Put four pounds of very ripe strawberries, nicely
+Strawberry Vinegar.
+Put four pounds of very ripe strawberries, nicely
 dressed, into three quarts of the best vinegar, and let them stand three
 or four days; then drain the vinegar through a jelly-bag, and pour it on
 the same quantity of fruit. Repeat the process in three days for a third
@@ -2259,16 +2396,19 @@ of fine sugar. Bottle, and let it stand covered, but not tightly corked,
 one week; then cork it tight, and set it in a cool, dry place, where
 it will not freeze. Raspberry vinegar is made the same way.
 
-Cider Vinegar. After cider has become too sour for use, set it in a
+Cider Vinegar.
+After cider has become too sour for use, set it in a
 warm place, put to it occasionally the rinsings of the sugar basin or
 molasses jug, and any remains of ale or cold tea; let it remain with the
 bung open, and you will soon have the best of vinegar.
 
-To Give Luster to Silver. Dissolve a quantity of alum in water, so as
+To Give Luster to Silver.
+Dissolve a quantity of alum in water, so as
 to make a pretty strong brine, and skim it carefully; then add some soap
 to it, and dip a linen rag in it, and rub over the silver.
 
-To Make Water-Proof Porous Cloth. Close water-proof cloth fabrics,
+To Make Water-Proof Porous Cloth.
+Close water-proof cloth fabrics,
 such as glazed oil-cloth, India-rubber, and gutta-percha cloth are
 completely water-proof, but do not permit perspiration and the exhaled
 gases from the skin to pass through them, because they are air-tight as
@@ -2295,7 +2435,8 @@ as described, partially water-proof, but it is not so good as the
 sulphate of lead. Such cloth cotton or woolen sheds rain like the
 feathers on the back of a duck.
 
-To Cleanse Carpet. 1 teaspoonful liquid ammonia in one gallon warm
+To Cleanse Carpet.
+1 teaspoonful liquid ammonia in one gallon warm
 water, will often restore the color of carpets, even if produced by acid
 or alkali. If a ceiling has been whitewashed with the carpet down, and a
 few drops are visible, this will remove it. Or, after the carpet is well
@@ -2305,7 +2446,8 @@ water, will do a large carpet. Table floor-cloths may be thus washed.
 The suds left from a wash where ammonia is used, even if almost cold,
 cleanses these floor-cloths well.
 
-To Keep Hams. After the meat has been well cured by pickle and smoke,
+To Keep Hams.
+After the meat has been well cured by pickle and smoke,
 take some clean ashes from bits of coal; moisten them with a little
 water so that they will form a paste, or else just wet the hams a
 little, and rub on the dry ashes. Rubbed in thoroughly they serve as a
@@ -2325,16 +2467,17 @@ substances to be cemented must be heated, and when the surfaces are
 coated with cement, they must be rubbed hard upon each other, as in
 making a glue-joint with wood.
 
-How to Make Cucumber Vines Bear Five Crops. When a cucumber is taken
+How to Make Cucumber Vines Bear Five Crops.
+When a cucumber is taken
 from the vine let it be cut with a knife, leaving about the eighth of an
 inch of the cucumber on the stem, then slit the stem with a knife from
 the end to the vine, leaving a small portion of the cucumber on each
 division, and on each separate slit there will be a new cucumber as
 large as the first.
 
-White Cement. Take white (fish) glue, 1 lb. 10 oz.; dry white lead, 6
+White Cement.
+Take white (fish) glue, 1 lb. 10 oz.; dry white lead, 6
 oz.; soft water, 3 pts.; alcohol, 1 pt.
-
 Dissolve the glue by putting it in a tin kettle or dish, containing the
 water, and set this dish in a kettle of water, to prevent the glue from
 being burned; when the glue is all dissolved, put in the lead and stir
@@ -2344,7 +2487,8 @@ keeping it corked. This last recipe has been sold about the country for
 from twenty-five cents to five dollars, and one man gave a horse for
 it.
 
-Bruises on Furniture. Wet the part in warm water; double a piece of
+Bruises on Furniture.
+Wet the part in warm water; double a piece of
 brown paper five or six times, soak in the warm water, and lay it on the
 place; apply on that a warm, but not hot, flatiron till the moisture is
 evaporated. If the bruise be not gone repeat the process. After two or
@@ -2353,10 +2497,12 @@ be small, merely soak it with warm water, and hold a red-hot iron near
 the surface, keeping the surface continually wet the bruise will soon
 disappear.
 
-To Prevent Iron Rust. Kerosene applied to stoves or farming
+To Prevent Iron Rust.
+Kerosene applied to stoves or farming
 implements, during summer, will prevent their rusting.
 
-To Color Sheep Skins. Unslaked lime and litharge equal parts, mixed
+To Color Sheep Skins.
+Unslaked lime and litharge equal parts, mixed
 to a thin paste with water, will color buff several coats will make it
 a dark brown; by adding a little ammonia and nitrate of silver a fine
 black is produced. Terra japonica will impart a "tan color" to wool, and
@@ -2366,11 +2512,13 @@ crystallized nitrate silver, 8 parts carbonate ammonia, and 1½ parts of
 soft water dyes brown; every additional coat darkens the color until a
 black is obtained.
 
-Remedy for Bums. Take one teacup of lard and the whites of two eggs;
+Remedy for Bums.
+Take one teacup of lard and the whites of two eggs;
 work together as much as it can be, then spread on cloths and apply.
 Change as often as necessary.
 
-How Summer Suits should be Washed. Summer suits are nearly all made
+How Summer Suits should be Washed.
+Summer suits are nearly all made
 of white or buff linen, pique, cambric, or muslin, and the art of
 preserving the new appearance after washing is a matter of the greatest
 importance. Common washerwomen spoil everything with soda, and nothing
@@ -2391,7 +2539,8 @@ handful of salt is very useful also to set the colors of light cambrics
 and dotted lawns; and a little ox gall will not only set but brighten
 yellow and purple tints, and has a good effect upon green.
 
-How to Fasten Rubber to Wood and Metal. As rubber plates and rings
+How to Fasten Rubber to Wood and Metal.
+As rubber plates and rings
 are now-a-days used almost exclusively for making connections between
 steam and other pipes and apparatus, much annoyance is often experienced
 by the impossibility or imperfection of an air-tight connection. This is
@@ -2403,14 +2552,16 @@ obtained, which in three to four weeks will become liquid without the
 use of hot water. This softens the rubber, and becomes, after
 volatilization of the ammonia, hard and impermeable to gases and fluids.
 
-Renewing Maroon Colors on Wool. Wash the goods in very weak lye; then
+Renewing Maroon Colors on Wool.
+Wash the goods in very weak lye; then
 rinse thoroughly in clear water; thus you have a beautiful, even
 color, although your goods may have been much faded and stained. Though
 the color thus obtained may not be the exact shade as when new, it is,
 however, a very pretty one. The above will not answer for other than all
 woolen goods of a maroon color.
 
-To make Waterproof Cloth out of thick Ducking. The following French
+To make Waterproof Cloth out of thick Ducking.
+The following French
 recipe is given: Take two pounds four ounces of alum, and dissolve it in
 ten gallons of water. In like manner dissolve the same quantity of sugar
 of lead in a similar quantity of water, and mix the two together. They
@@ -2418,12 +2569,14 @@ form a precipitate of the sulphate of lead. The clear liquor is now
 withdrawn, and the cloth immersed one hour in the solution, when it is
 taken out and dried in the shade, washed in clean water and dried again.
 
-How to Stop a Pinhole in Lead Pipe. Take a ten-penny nail, place the
+How to Stop a Pinhole in Lead Pipe.
+Take a ten-penny nail, place the
 square end upon the hole, and hit it two or three slight blows with a
 hammer, and the orifice is closed as tight as though you had employed a
 plumber to do it at a cost of a dollar or more.
 
-To Build a Chimney that Will Not Smoke. The Scientific American
+To Build a Chimney that Will Not Smoke.
+The Scientific American
 gives the following hints to those who would "build a chimney which will
 not smoke": The chief point is to make the throat not less than four
 inches broad and twelve long; then the chimney should be abruptly
@@ -2436,7 +2589,8 @@ sixty square inches. The best shape for a chimney is circular, or
 many-sided, as giving less friction, (brick is the best material, as it
 is a non-conductor,) and the higher above the roof the better.
 
-To Prevent Turners' Wood Splitting. Small pieces of valuable wood,
+To Prevent Turners' Wood Splitting.
+Small pieces of valuable wood,
 such kinds as are used for turning, etc., are very liable to split
 readily that is, outward from the centre. To prevent this, soak the
 pieces, when first cut, in cold water for 24 hours, then boil in hot
@@ -2444,12 +2598,14 @@ water for two or three hours, and afterward dry slowly and under cover.
 This will be found useful in making handsome mantel, toilet, and other
 articles from sumac, cherry, and other woods that never grow very large.
 
-To Remove Dry Paint on Windows. The most economical way to remove dry
+To Remove Dry Paint on Windows.
+The most economical way to remove dry
 paint from the panes is to make a small swab having a handle some eight
 inches long, dip it in a little diluted oxalic acid, and rub off the
 paint with a swab.
 
-Everlasting Fence Posts. I discovered many years ago that wood could
+Everlasting Fence Posts.
+I discovered many years ago that wood could
 be made to last longer than iron in the ground, but thought the process
 so simple and inexpensive that it was not worth while making any stir
 about it. I would as soon have poplar, basswood, or quaking ash as any
@@ -2461,7 +2617,8 @@ piece. This is the recipe: Take boiled linseed oil and stir in it
 pulverized charcoal to the consistency of paint. Put a coat of this over
 the timber, and there is not a man that will live to see it rotten.
 
-How to Test the Richness of Milk. Procure any long glass vessel a
+How to Test the Richness of Milk.
+Procure any long glass vessel a
 cologne bottle or long phial. Take a narrow strip of paper, just the
 length from the neck to the bottom of the phial, and mark it off with
 one hundred lines at equal distances; or into fifty lines and count each
@@ -2471,7 +2628,8 @@ the cow, and allow it to stand in a perpendicular position twenty-four
 hours. The number of spaces occupied by the cream will give you its
 exact percentage in the milk without any guess work.
 
-To Remove Stains. The stains of ink on cloth, paper, or wood may be
+To Remove Stains.
+The stains of ink on cloth, paper, or wood may be
 removed by almost all acids: but those acids are to be preferred which
 are least likely to injure the texture of the stained substance. The
 muriatic acid, diluted with five or six times its weight of water, may
@@ -2487,7 +2645,8 @@ Lemon-juice and the juice of sorrels will also remove ink stains, but
 not so easily as the concrete acid of lemons or citric acid.
 
 To Prevent Snow-water or Rain from Penetrating the Soles of Shoes or
-Boots in Winter. This simple and effectual remedy is nothing more than
+Boots in Winter.
+This simple and effectual remedy is nothing more than
 a little beeswax and mutton suet, warmed in a pipkin until in a liquid
 state. Then rub some of it lightly over the edges of the sole where the
 stitches are, which will repel the wet, and not in the least prevent the
@@ -2501,7 +2660,8 @@ place sheets of paper, moistened with spirits of turpentine, over,
 under, or between pieces of cloth, etc., and find it a very effectual
 mode.
 
-To make Sea-water fit for Washing Linen at Sea. Soda put into
+To make Sea-water fit for Washing Linen at Sea.
+Soda put into
 sea-water renders it turbid; the lime and magnesia fall to the bottom.
 To make sea-water fit for washing linen at sea, as much soda must be put
 in it, as not only to effect a complete precipitation of these earths,
@@ -2560,16 +2720,19 @@ heat the part cautiously by an iron or the fire while the cloth is
 drying. In some kinds of goods, blotting-paper, bran, or raw starch, may
 be used with advantage.
 
-To take out Spots of Ink. As soon as the accident happens, wet the
+To take out Spots of Ink.
+As soon as the accident happens, wet the
 place with juice of sorrel or lemon, or with vinegar, and the best hard
 white soap.
 
-To take Iron-moulds out of Linen. Hold the iron-mould on the cover of
+To take Iron-moulds out of Linen.
+Hold the iron-mould on the cover of
 a tankard of boiling water, and rub on the spot a little juice of sorrel
 and a little salt; and when the cloth has thoroughly imbibed the juice,
 wash it in lye.
 
-To take out Spots on Silk. Rub the spots with spirits of turpentine;
+To take out Spots on Silk.
+Rub the spots with spirits of turpentine;
 this spirit exhaling, carries off with it the oil that causes the spot.
 
 To take Wax out of Velvet of all Colors except Crimson.
@@ -2601,7 +2764,8 @@ ground to a paste, Spanish whiting, 8 oz.; glue, 1 lb.; mix and add hot
 water, 5 gallons; let it stand a few days, and apply hot. It makes a
 brilliant wash for inside or outside works.
 
-To Purify Water for Drinking. Filter river-water through a sponge,
+To Purify Water for Drinking.
+Filter river-water through a sponge,
 more or less compressed, instead of stone or sand, by which the water is
 not only rendered more clean, but wholesome; for sand is insensibly
 dissolved by the water, so that in four or five years it will have lost
@@ -2611,21 +2775,24 @@ quantity of terrene matter on the inside of tea-kettles, will be
 convinced all water should be boiled before drunk, if they wish to avoid
 being afflicted with gravel or stone, etc.
 
-To Purify the Muddy Waters of Rivers or Pits. Make a number of holes
+To Purify the Muddy Waters of Rivers or Pits.
+Make a number of holes
 in the bottom of a deep tub; lay some clean gravel thereon, and above
 this some clean sand; sink this tub in the river or pit, so that only a
 few inches of the tub will be above the surface of the water; the river
 or pit water will filter through the sand, and rise clear through it to
 the level of the water on the outside, and will be pure and limpid.
 
-Method of Making Putrid Water Sweet in a Night's Time. Four large
+Method of Making Putrid Water Sweet in a Night's Time.
+Four large
 spoonfuls of unslacked lime, put into a puncheon of ninety gallons of
 putrid water at sea, will, in one night, make it as clear and sweet as
 the best spring-water just drawn; but, unless the water is afterwards
 ventilated sufficiently to carbonize the lime, it will be a lime-water.
 Three ounces of pure unslacked lime should saturate 90 gallons of water.
 
-To Keep Apples from Freezing. Apples form an article of chief
+To Keep Apples from Freezing.
+Apples form an article of chief
 necessity in almost every family; therefore, great care is taken to
 protect them from frost; it being well known that they, if left
 unprotected, are destroyed by the first frost which occurs. They may be
@@ -2633,7 +2800,8 @@ kept in the attic with impunity throughout the winter, by simply
 covering them over with a linen cloth; be sure you have linen, for
 woolen or other cloth is of no avail.
 
-To Preserve Grapes. Take a cask or barrel which will hold water, and
+To Preserve Grapes.
+Take a cask or barrel which will hold water, and
 put into it, first a layer of bran, dried in an oven, or of ashes well
 dried and sifted; upon this place a layer of grapes well cleaned, and
 gathered in the afternoon of a dry day, before they are perfectly ripe;
@@ -2646,32 +2814,35 @@ freshness, cut the end of the stalk of each bunch of grapes, and put it
 into red wine, as you would flowers into water. White grapes should be
 put into white wine.
 
-To Increase the Laying of Eggs. The best method is to mix with their
+To Increase the Laying of Eggs.
+The best method is to mix with their
 food, every other day, about a teaspoon of ground cayenne pepper to each
 dozen fowl. Whilst upon this subject, it would be well to say, that if
 your hens lay soft eggs, or eggs without shells, you should put plenty
 of old plaster, egg-shells, or even oyster-shells broken up, where they
 can get at it.
 
-To Preserve Meats. Beef to pickle for long keeping. First, thoroughly
+To Preserve Meats.
+Beef to pickle for long keeping. First, thoroughly
 rub salt into it, and let it remain in bulk for twenty-four hours to
 draw off the blood. Second, take it up, letting it drain, and pack as
 desired. Third, have ready a pickle prepared as follows: for every 100
 pounds of beef use 7 pounds salt; saltpetre and cayenne pepper each, 1
 ounce; molasses, 1 quart; and soft water, 8 gallons; boil and skim well,
 and when cold pour over the beef.
-
 Another method is to use 5 pounds salt, 1 pound brown sugar, and ¼ oz.
 of saltpetre, to each 100 pounds; dissolve the above in sufficient water
 to cover the meat, and in two weeks drain all off, and make more same as
 first. It will then keep through the season. To boil for eating, put
 into boiling water; for soups, into cold water.
 
-Flies, to Destroy. Boil some quassia-chips in a little water, sweeten
+Flies, to Destroy.
+Boil some quassia-chips in a little water, sweeten
 with syrup or molasses, and place it in saucers. It is destructive to
 flies, but not to children.
 
-Walnuts, to Pickle. Take 100 young walnuts, lay them in salt and
+Walnuts, to Pickle.
+Take 100 young walnuts, lay them in salt and
 water for two or three days, changing the water every day. (If required
 to be soon ready for use, pierce each walnut with a larding pin that the
 pickle may penetrate). Wipe them with a soft cloth, and lay them on a
@@ -2684,7 +2855,8 @@ boiling vinegar to cover them. Some prefer the walnuts to be gently
 simmered with the brine, then laid on a cloth for a day or two till they
 turn black, put into a jar, and hot spiced vinegar poured on them.
 
-To Pickle Cucumbers and Gherkins. Small cucumbers, but not too young,
+To Pickle Cucumbers and Gherkins.
+Small cucumbers, but not too young,
 are wiped clean with a dry cloth, put into a jar, and boiling vinegar,
 with a handful of salt, poured on them. Boil up the vinegar every three
 days, and pour it on them, till they become green: then add ginger and
@@ -2696,22 +2868,26 @@ keep them hot for eight or ten days, till they become green; then pour
 off the vinegar, cover them with hot spiced vinegar, and cover them
 close.
 
-Mushroom Ketchup. Pickled mushrooms, 4 lbs.: salt, 2 lbs. Sprinkle it
+Mushroom Ketchup.
+Pickled mushrooms, 4 lbs.: salt, 2 lbs. Sprinkle it
 on the mushrooms; and, when they liquefy, remove the juice; acid
 pimento, 6 oz.; cloves, 1 oz.; boil gently and strain: the remaining
 liquor, if any, may be treated with pepper, mace and ginger for a second
 quality.
 
-Tomato Ketchup. Proceed as for mushroom ketchup, and add a little
+Tomato Ketchup.
+Proceed as for mushroom ketchup, and add a little
 Chili pepper vinegar.
 
-To Take Fac-Similes of Signatures. Write your name on a piece of
+To Take Fac-Similes of Signatures.
+Write your name on a piece of
 paper, and while the ink is wet sprinkle over it some finely-powdered
 gum arabic, then make a rim round it, and pour on it some fusible alloy,
 in a liquid state. Impressions may be taken from the plates formed in
 this way, by means of printing-ink and the copperplate-press.
 
-To Copy Letters without a Press. A black copying ink, which flows
+To Copy Letters without a Press.
+A black copying ink, which flows
 easily from the pen, and will enable any one to obtain very sharp copies
 without the aid of a press, can be prepared in the following manner: One
 ounce of coarsely broken extract of logwood and two drachms of
@@ -2730,7 +2906,8 @@ steel pens. This ink cannot be used with a copying press. Its impression
 is taken on thin moistened copying paper, at the back of which is placed
 a sheet of writing paper.
 
-To Obtain Fresh Blown Flowers in Winter. Choose some of the most
+To Obtain Fresh Blown Flowers in Winter.
+Choose some of the most
 perfect buds of the flowers you would preserve, such as are latest in
 blowing and ready to open; cut them off with a pair of scissors, leaving
 to each, if possible, a piece of stem about three inches long; cover the
@@ -2745,34 +2922,39 @@ the pleasure of seeing the buds open and expanding themselves, and the
 flowers display their most lively colors, and breathe their agreeable
 odors.
 
-Cheap Ice Cream. Sweet milk, two quarts. Scald the milk, pour over
+Cheap Ice Cream.
+Sweet milk, two quarts. Scald the milk, pour over
 four eggs, and stir well. Cool off and add sugar and essence of lemon or
 vanilla. Pour into a deep, narrow tin pail. Cover, and set into a wooden
 pail. Fill up the space between the two vessels with pounded ice and
 salt. In half an hour it will be fit for use. Keep thus in the ice till
 wanted to use.
 
-To Take Impressions from Coins. Make a thick solution of isinglass in
+To Take Impressions from Coins.
+Make a thick solution of isinglass in
 water, and lay it hot on the metal; let it remain for twelve hours, then
 remove it, breathe on it and apply gold or silver-leaf on the wrong
 side. Any color may be given to the isinglass instead of gold or silver,
 by simple mixture.
 
-To Print Pictures from the Print Itself. The page or print is soaked
+To Print Pictures from the Print Itself.
+The page or print is soaked
 in a solution first of potass, and then of tartaric acid. This produces
 a perfect diffusion of crystals of bitartrate of potass through the
 texture of the unprinted part of the paper. As this salt resists oil,
 the ink roller may now be passed over the surface, without transferring
 any of its contents, except to the printed paper.
 
-To Preserve Steel Knives from Rust. Never wrap them in woolen cloths.
+To Preserve Steel Knives from Rust.
+Never wrap them in woolen cloths.
 When they are not to be used for some time, have them made bright and
 perfectly dry; then take a soft rag, and rub each blade with dry wood
 ashes. Wrap them closely in thick brown paper, and lay them in a drawer
 or dry closet. A set of elegant knives, used only on great occasions,
 were kept in this way for over a hundred years without a spot of rust.
 
-To Plate and Gild without a Battery. A very useful solution of silver
+To Plate and Gild without a Battery.
+A very useful solution of silver
 or gold for plating or gilding without the aid of a battery may be made
 as follows: Take say, 1 ounce of nitrate of silver, dissolved in one
 quart of distilled or rain water. When thoroughly dissolved, throw in a
